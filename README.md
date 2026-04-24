@@ -14,7 +14,6 @@
 - [Задание 5. GET-запросы в Postman](#задание-5-get-запросы-в-postman)
 - [Задание 6. POST register в Postman](#задание-6-post-register-в-postman)
 - [Задание 7. POST login в Postman](#задание-7-post-login-в-postman)
-- [Вывод](#вывод)
 
 ---
 
