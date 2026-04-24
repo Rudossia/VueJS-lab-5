@@ -114,11 +114,11 @@ https://json.geoiplookup.io/
 
 ### Запрос к VK
 
-![Задание 5 — VK](images/5task.png)
+![Задание 5 - VK](images/5task.png)
 
 ### Запрос к geoiplookup
 
-![Задание 5 — GEOIP](images/6task.png)
+![Задание 5 - GEOIP](images/6task.png)
 
 ### Анализ заголовков ответа
 
@@ -162,11 +162,11 @@ https://reqres.in/api/users
 
 чтобы получить email заготовленного пользователя.
 
-![Задание 6 — users](images/7_1task.png)
+![Задание 6 - users](images/7_1task.png)
 
 ### Выполнение register-запроса
 
-![Задание 6 — register](images/7_2task.png)
+![Задание 6 - register](images/7_2task.png)
 
 ### Что было сделано
 
@@ -222,7 +222,7 @@ https://reqres.in/api/login
 
 ---
 
-# Часть 2. Лабораторная работа 5 — Vue Introduction
+# Часть 2. Лабораторная работа 5 - Vue Introduction
 
 подключение Vue через тег `script`, создание реактивного кликера, инициализация проекта через `npm init vue@latest`, работа с Composition API, Single File Components, props, slots и пользовательскими событиями.
 
