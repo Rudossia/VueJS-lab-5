@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>Vue Clicker</title>
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+</head>
+<body>
+  <div id="app">
+    <p>Очки: {{ count }}</p>
+    <button @click="countIncrease()">Нажми</button>
+  </div>
+
+  <script>
+    Vue.createApp({
+      data() {
+        return {
+          count: 0
+        }
+      },
+      methods: {
+        countIncrease() {
+          this.count++
+        }
+      }
+    }).mount('#app')
+  </script>
+</body>
+</html>
